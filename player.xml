@@ -1,0 +1,15 @@
+<players root="gfx/characters/costumes/" portraitroot="gfx/ui/stage/" nameimageroot="gfx/ui/boss/">
+    <player name="Liev"
+        skin="character_Theliev.png"
+        nameimage="playername_theliev.png"
+        hp="4"
+        portrait="playerportrait_apollyon.png"
+        skinColor="-1"
+        costume="33"
+        costumeSuffix="Liev"
+    />
+</players>
+
+
+
+i used portrait="playerportrait_apollyon.png" because I didn't have a sprite of Liev's portrait at the time.
